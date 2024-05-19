@@ -1,0 +1,39 @@
+  /*footer start*/
+  footer{
+    width: 100%;
+    position: absolute;
+    bottom: 0%;
+    text-align: center;
+    background-color:rgba(0, 0, 0, 0.763);
+    color: bisque;
+
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    font-style: italic;
+    font: bold;
+}
+.text p{
+    width: 450px;
+    text-align: center;
+    margin: 0 auto;
+    position: relative;
+    top: -25px;
+    color: rgb(250, 250, 250);
+    
+}
+.icon i{
+    font-size: 40px;
+    position: relative;
+    top: -15px;
+    padding: 8px;
+
+}
+.copy{
+    height: 50px;
+    width: 100%;
+    background-color: rgba(87, 159, 170, 0.877);
+    line-height: 50px;
+    font-size: 25px;
+}
