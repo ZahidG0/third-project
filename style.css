@@ -1,4 +1,13 @@
   /*footer start*/
+   .p1{
+    font-size: 150px;
+    margin-top: 0;
+    text-align: center;
+    font-style: italic;
+    color: #341f2e; ;
+    font-weight: bold;
+   }
+  
   footer{
     width: 100%;
     position: absolute;
